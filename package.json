@@ -24,7 +24,7 @@
     "file-saver": "^2.0.2",
     "fs": "0.0.1-security",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nano": "^8.1.0",
     "pouchdb": "^7.1.1",
     "rxjs": "~6.3.3",
